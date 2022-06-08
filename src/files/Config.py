@@ -1,5 +1,5 @@
 # API
-KEY = 'c394fa0c-0e05-4acd-8b56-69e373a82cf1'
+KEY = ''
 
 headers = {
     'Accepts': 'application/json',
