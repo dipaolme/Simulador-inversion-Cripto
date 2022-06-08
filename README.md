@@ -124,7 +124,7 @@ Ejemplo de parametros para 2 estrategias
 
 ### Graficos
 
-*roi, ganancia, fondos_balance, transacciones_acumulada, costo_acumulado, top_10, low_10*
+*roi, ganancia, fondos_balance, transacciones_acumulada, costo_acumulado
 
 ROI
 
