@@ -70,13 +70,9 @@ La idea es que el mercado eventualmente crecera, segmentar la inversion
 
 
 
-### Requerimientos
-
-Se requiere tener una suscripcion **"PROFESSIONAL"** a la 
-    API de *Coinmarketcap*, ya que permite acceder a 12 meses de data historica.
 
 
-### % a invertir segun ranking de Cap. Mercado en cada cluster
+### Distribucion de % a invertir 
 
 
 **Cluster 1**
@@ -143,10 +139,10 @@ ROI
 
 
 
-Se pueden comparar estrategia:
+Se pueden comparar 2 o mas estrategias:
 
 
-![GANANCIA](https://github.com/dipaolme/Simulador-de-inversion-Cripto/blob/main/imagenes/ganancia_comparada.png))
+![GANANCIA](https://github.com/dipaolme/Simulador-de-inversion-Cripto/blob/main/imagenes/ganancia_comparada.png)
 
 
 
