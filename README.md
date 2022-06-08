@@ -75,17 +75,6 @@ La idea es que el mercado eventualmente crecera, segmentar la inversion
 Se requiere tener una suscripcion **"PROFESSIONAL"** a la 
     API de *Coinmarketcap*, ya que permite acceder a 12 meses de data historica.
 
-Igualmente todos los datos utilizados  se encuentran guardados en 
-    archivos '.csv' si se quieren realizar corridas en las mismas fechas.
-
-### Variables Globales
-
-Dentro del archivo *Config.py* se podra setear:
-
-* KEY provista por Coinmarketcap
-* % inversion segun cluster/ranking (ver ejemplo abajo)
-* % asignado al Fondo de Balanceo
-* dia del mes de la inversion
 
 ### % a invertir segun ranking de Cap. Mercado en cada cluster
 
@@ -124,7 +113,7 @@ Dentro del archivo *Config.py* se podra setear:
 
 ### Parametros de corrida
 
-Ejemplo de parametros de 2 estrategias 
+Ejemplo de parametros para 2 estrategias 
 
     fecha_inicio = (2021, 7, 5)                    # el dia tiene que coincidir con el dia seleccionado para la inversion
     fecha_final = (2022, 6, 6)                     # el dia tiene que ser un dia despues del seleccionado para la inversion
@@ -142,55 +131,23 @@ Ejemplo de parametros de 2 estrategias
     exposicion = [0.1, 0.2]
     estrategia = "estrategia_2"
 
-### Resultados
-
-La corrida genera una carpeta con el nombre de la fecha incial elegida, 
-y dentro una carpeta para cada estrategia (si hubo mas de una).
-
-Ademas de una carpeta para cada cluster con sus metricas,  se entcontrara:
-
-* top 25 Criptomonedas con mayor roi acumulado
-* top 25 Criptomonedas con mayor roi acumulado
-* ventas de los tokens que salieron del ranking
-
-
-#### Metricas
-
-Se calculan para cada cluster y kuego se agrupan en una tabla global, algunas son:
-
-*market value* : Cantidad * Precio
-
-*ganancia* : market value - inversion inicial
-
-*roi* : ( market value - inversion inicial ) /  inversion inicial  * 100
 
 
 ### Graficos
 
-Por estrategia se puede graficar:
-
 *roi, fondos_balance, transacciones_acumulada, costo_acumulado, top_10, low_10*
+
+ROI
 
 ![roi](https://github.com/dipaolme/Simulador-de-inversion-Cripto/blob/main/imagenes/roi.png))
 
 
 
-
-
-
 Se pueden comparar estrategia:
 
-*roi, fondos_balanceo, transacciones_acumuladas, costo_acumulado*
 
-#### ROI
+![GANANCIA](https://github.com/dipaolme/Simulador-de-inversion-Cripto/blob/main/imagenes/ganancia_comparada.png))
 
-#### GANANCIA
-
-#### FONDO BALANCEO
-
-
-
-#### ROI
 
 
 ### to do
