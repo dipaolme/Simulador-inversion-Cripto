@@ -171,8 +171,9 @@ Por estrategia se puede graficar:
 
 *roi, fondos_balance, transacciones_acumulada, costo_acumulado, top_10, low_10*
 
+![roi](https://github.com/dipaolme/Simulador-de-inversion-Cripto/imagenes/roi.png)
 
- ROI
+
 
 
 
