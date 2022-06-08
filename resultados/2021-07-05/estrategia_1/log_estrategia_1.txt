@@ -1,0 +1,11 @@
+Tipo: mensual
+Estrategia: estrategia_1
+Fondos: 100000
+tolerancia_balanceo Cluster 1: 0.02
+tolerancia_balanceo Cluster 2: 0.02
+tolerancia_balanceo Cluster 3: 0.02
+Exposicion minima: 0.1
+Exposicion maxima: 0.2
+Porcentaje del fondo invertido Cluster 1:0.3
+Porcentaje del fondo invertido Cluster 2:0.3
+Porcentaje del fondo invertido Cluster 3:0.4
