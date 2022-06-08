@@ -119,30 +119,17 @@ Ejemplo de parametros para 2 estrategias
     exposicion = [0.1, 0.2]                        # exposicion mini y max del fondo de balanceo respecto a los clusters  
     estrategia = "estrategia_1"                    # nombre de la estrategia   
 
-    fecha_inicio = (2021, 6, 5)
-    fecha_final = (2021, 12, 6)
-    fondos = 100000
-    porcentajes_a_repartir = [0.2, 0.2, 0.6]
-    tolerancia_balanceo = [0.05, 0.1, 0.2]
-    exposicion = [0.1, 0.2]
-    estrategia = "estrategia_2"
 
 
 
 ### Graficos
 
-*roi, fondos_balance, transacciones_acumulada, costo_acumulado, top_10, low_10*
+*roi, ganancia, fondos_balance, transacciones_acumulada, costo_acumulado, top_10, low_10*
 
 ROI
 
-![roi](https://github.com/dipaolme/Simulador-de-inversion-Cripto/blob/main/imagenes/roi.png))
+![roi](https://github.com/dipaolme/Simulador-de-inversion-Cripto/blob/main/imagenes/roi.png)
 
-
-
-Se pueden comparar 2 o mas estrategias:
-
-
-![GANANCIA](https://github.com/dipaolme/Simulador-de-inversion-Cripto/blob/main/imagenes/ganancia_comparada.png)
 
 
 
