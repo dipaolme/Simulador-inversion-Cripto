@@ -99,9 +99,9 @@ La idea es que el mercado eventualmente crecera, segmentar la inversion
 | sub-cluster | Ranking / Posicion  | % inversion |    
 |:---:|   :-:   | :-:  |   
 |  1  |  51- 80 | 11.3 |
-|  2  | 81- 110 | 11.3 |
+|  2  | 81- 110 | 10.6 |
 | ... |   ...   |  ... |
-| 14  |441- 470 | 11.3 |
+| 14  |441- 470 | 2.7 |
 |  15 |471- 500 |   2  |
 
 *\*Se agrupa en en 15 subclusters compuesto de 30 monedas cada uno por cuestion de espacio*
@@ -123,7 +123,7 @@ Ejemplo de parametros para 2 estrategias
 
 ### Graficos
 
-*roi, ganancia, fondos_balance, transacciones_acumulada, costo_acumulado
+*roi, ganancia, fondos_balance, transacciones_acumulada, costo_acumulado*
 
 ROI
 
