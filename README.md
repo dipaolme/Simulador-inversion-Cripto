@@ -35,8 +35,7 @@ La idea es que el mercado eventualmente crecera, segmentar la inversion
     Los porcentajes sumados representan el 100% del fondo y  se mantienen 
     constantes durante todo el ejercicio.
 
-* Se crea ademas un **Fondo de Balanceo**, y se define la **Exposicion**  
-    que tendra respecto a los clusters previamente definidos. 
+* Se crea ademas un **Fondo de Balanceo**, y se define la **Exposicion**  que tendra respecto a los clusters previamente definidos. 
     Esto permite mantener el valor de los clusters en un determinado rango 
     de porcentajes repecto a dicho fondo, de esta manera si el valor de 
     mercado sufre una baja considerable se podran inyectar 
