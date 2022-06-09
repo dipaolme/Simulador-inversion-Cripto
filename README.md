@@ -3,10 +3,6 @@
 Simulacion de inversion en las 500 criptomonedas con mayor capitalizacion 
     de mercado mensual a lo largo de 11 meses.
 
-## Autores
-- [@matiasdipaola](https://github.com/dipaolme)
-- [@gastonaraujo]()
-
 ### Motivacion
 En un mercado *joven* como el Cripto, la tendencia en el mediano plazo es 
     que la capitalizacion total de mercado siga en aumento a pesar de la alta 
